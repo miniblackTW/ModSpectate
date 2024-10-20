@@ -1,0 +1,14 @@
+name: ModSpectate
+main: me.miniblacktw.spectate.ModSpectate
+version: 1.0
+author: miniblack_TW
+description: A Spectate plugin for Mods or lower staff
+commands:
+  mspec:
+    description: Teleports you back to the last location after Spectate mode
+    usage: /mspec
+    permission: modspec.*
+permissions:
+  modspec.*:
+    description: Permission for /mspec
+    default: op

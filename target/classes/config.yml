@@ -1,0 +1,5 @@
+enter-gamemode: SPECTATOR
+exit-gamemode: SURVIVAL
+enter-spectator: "&8[&bYourServer&8] &bEnabled your Spectate mode, &c/mspec &bagain to exit"
+exit-spectator: "&8[&bYourServer&8] &bTeleported you to the last location"
+no-permission: "&cYou don't have permission to use this command."
